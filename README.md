@@ -27,10 +27,10 @@ MyMoney é um aplicativo de gestão financeira, com ele o usuário cadastra rece
 ## :art: Layout
 O sistema MyMoney é responsivo, foi pensado para ser executado em diversos dispositivos. Abaixo as principais telas da aplicação:
 
-:computer: Desktop
+<p>:computer: Desktop</p>
 <img src="https://github.com/rodrigo-b-silva/MyMoneyApp/blob/master/.github/desktop.PNG" alt="Desktop" width="900" />
 
-:iphone: Mobile
+<p>:iphone: Mobile</p>
 <img src="https://github.com/rodrigo-b-silva/MyMoneyApp/blob/master/.github/mobile.PNG" alt="Mobile" width="900" />
 
 
